@@ -1,4 +1,4 @@
-***Hi there 👋*** My name is **Georgy Firsov**. Currently I'm located in Moscow, Russian Federation. My main job is junior software engineer in the area of system programming in the area of security. In addition I improve my knowledge in machine learning (in university) and web development (as my own additional activity).
+***Hi there 👋*** My name is **Georgy Firsov**. Currently I'm located in Moscow, Russian Federation. My main job is junior software engineer (system programming in the area of security). In addition I improve my knowledge in machine learning (in university) and web development (as my own additional activity). See [section below](#:information_source:-Some-additional-info) about my activity.
 
 ***To view my main repositories scroll down this page. 6 favorite repos are listed below this text.***
 
