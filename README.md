@@ -4,12 +4,6 @@ My name is **Georgy Firsov**. Currently I'm located in Moscow, Russian Federatio
 
 ***To view my main repositories scroll down this page. 6 favorite repos are listed below this text.***
 
-### :mortar_board: Education
-I'm a student of [National Research Nuclear University MEPhI](https://mephi.ru/) since 2017. After receiving a bachelor's degree (program engineering) I'll continue my eduction to receive a master's degree. Currently my research area is time series analyzis and machine learning. You can look at some repositories about it in my profile.
-
-### :office: Work
-I work in [Security Code Ltd.](https://www.securitycode.ru/) in Moscow in HQ of the company. I'm a junior software engineer, but more oficially my job title is "junior developer". I'm working in Secret Net Studio department. [Secret Net Studio](https://www.securitycode.ru/products/secret-net-studio/) is an information security system, that provides own discretionary access control, mandat access control, integrity checking, own logon module, etc. I'm working in base protection group that develops a core of the whole system. 
-
 ### :zap: Tools and technologies
 My main programming language is **C++**, I'm familiar with core C++, STL, Win32 API, complex template metaptogramming, compile time calculations and multithreadig. Also I use pure Win32 API to write applications for Windows (including GUI applications), but sometimes I use some MFC and ATL classes to write apps more easily and quickly. 
 
