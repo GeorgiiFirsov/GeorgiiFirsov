@@ -21,7 +21,7 @@ Set of my main technologies is listed below:
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)]()
 
 ### :information_source: Some additional info
-In my free time I like to study some knowledge about C++ as far as it is my main programming language. For instanse I research compiler internals, develop some tricks. You can find several articles on my [web-page](https://georgyfirsov.github.io/) ([english version](https://georgyfirsov.github.io/en/)). There are some articles about a process of developing of my repositories, that I consider to be interesting to read.
+In my free time I like to study some knowledge about C++ as far as it is my main programming language. For instanse I research compiler internals, develop some tricks. You can find several articles on my [web-page](https://georgyfirsov.github.io/) ([english version](https://georgyfirsov.github.io/en/)). There are some posts about a process of developing of my repositories, that I consider to be interesting to read.
 
 Moreover my interests spread onto the area of compilers theory, programming languages, automata theory, computer networks, cryptography and information security. I also dig into \*nix systems to know how they work internally. In the area of weak artifical intelligence I'm interested in machine learning algorithms (regression, classification, etc.), time series modelling and forecasting, building neural networks for classification tasks. Another area of IT, I'm improving my skills in, is web development (with respect to security). 
 
