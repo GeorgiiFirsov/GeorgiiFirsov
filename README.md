@@ -2,6 +2,8 @@
 
 My name is **Georgy Firsov**. Currently I'm located in Moscow, Russian Federation. My main job is junior software engineer in the area of system programming in the area of security. In addition I improve my knowledge in machine learning (in university) and web development (as my own additional activity).
 
+***To view my main repositories scroll down this page. 6 favorite repos are listed below this text.***
+
 ### :mortar_board: Education
 I'm a student of [National Research Nuclear University MEPhI](https://mephi.ru/) since 2017. After receiving a bachelor's degree (program engineering) I'll continue my eduction to receive a master's degree. Currently my research area is time series analyzis and machine learning. You can look at some repositories about it in my profile.
 
