@@ -1,11 +1,15 @@
 ***Hi there 👋*** My name is **Georgy Firsov**. Currently I'm located in Moscow, Russian Federation. My main job is junior software engineer (system programming in the area of security). In addition I'm interested in machine learning (in university) and web development (as my own additional activity). See [section below](#information_source-some-additional-info) about my activity.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgyFirsov&show_icons=true&theme=tokyonight&count_private=true&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 ***To view my main repositories scroll down this page. 6 favorite repos are listed below this text.***
 
 ### :zap: Tools and technologies
 My main programming language is **C++**, I'm familiar with core C++, STL, Win32 API, complex template metaptogramming, compile time calculations and multithreadig. Also I use pure Win32 API to write applications for Windows (including GUI applications), but sometimes I use some MFC and ATL classes to write apps more easily and quickly. 
 
 The second language I often use is **Python**, usually I choose it for some machine learning tasks, TSA and neural networks. Well, writing in Python is more about my hobby for now, because my main tasks on work require writing in C++.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgyFirsov&hide=jupyter%20notebook&theme=tokyonight&card_width=1000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Set of my main technologies is listed below:
 
