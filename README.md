@@ -1,15 +1,15 @@
-***Hi there 👋*** My name is **Georgy Firsov**. Currently I'm located in Moscow, Russian Federation. My main job is junior software engineer (system programming in the area of security). In addition I'm interested in machine learning (in university) and web development (as my own additional activity). See [section below](#information_source-some-additional-info) about my activity.
+***Hi there 👋*** My name is **Georgy Firsov**. Currently I'm located in Moscow, Russian Federation. My main job is middle software engineer at Security Code Ltd. In addition I'm interested in machine learning (in university) and programming languages. See [section below](#information_source-some-additional-info) about my GitHub activity.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgyFirsov&show_icons=true&theme=tokyonight&count_private=true&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ***To view my main repositories scroll down this page. 6 favorite repos are listed below this text.***
 
 ### :zap: Tools and technologies
-My main programming language is **C++**, I'm familiar with core C++, STL, Win32 API, complex template metaptogramming, compile time calculations and multithreadig. Also I use pure Win32 API to write applications for Windows (including GUI applications), but sometimes I use some MFC and ATL classes to write apps more easily and quickly. 
+My main programming language is **C++**, I'm familiar with core C++, STL, Win32 API, complex template metaptogramming, and parallel programming. Also I use pure Win32 API to write applications for Windows (including GUI applications), but sometimes I use some MFC and ATL classes to write apps more easily and quickly. 
 
 The second language I often use is **Python**, usually I choose it for some machine learning tasks, TSA and neural networks. Well, writing in Python is more about my hobby for now, because my main tasks on work require writing in C++.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgyFirsov&hide=jupyter%20notebook,HTML,CSS&theme=tokyonight&card_width=1000&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+For expansion of my skills I also write in **Rust** and **Haskell**. These languages differ a bit from C++ and Python, they are *functional* languages. It is an area of my additional interests.
 
 Set of my main technologies is listed below:
 
@@ -27,7 +27,14 @@ Set of my main technologies is listed below:
 ### :information_source: Some additional info
 In my free time I like to study some knowledge about C++ as far as it is my main programming language. For instanse I research compiler internals, develop some tricks. You can find several articles on my [web-page](https://georgyfirsov.github.io/). There are some posts about a process of developing of my repositories, that I consider to be interesting to read.
 
-Moreover my interests spread onto the area of compilers theory, programming languages, automata theory, computer networks, cryptography and information security. I also dig into \*nix systems to know how they work internally. In the area of weak artifical intelligence I'm interested in machine learning algorithms (regression, classification, etc.), time series modelling and forecasting, building neural networks for classification tasks. Another area of IT, I'm improving my skills in, is web development (with respect to security). 
+Moreover my interests spread onto the area of compilers theory, programming languages, automata theory, computer networks, cryptography and information security. I also dig into \*nix systems to know how they work internally. In the area of weak artifical intelligence I'm interested in time series forecasting and deep learning.
+
+### :mortar_board: Publications
+Some of my activities lead to scientific researches. Here are my publications in areas of information security, compilers theory and machine learning:
+- [Syntax Error Search Using Parser Combinators](https://ieeexplore.ieee.org/document/9396311), 2021, DOI: 10.1109/ElConRus51938.2021.9396311
+- [Authentication via RDP Using Electronic Identifiers](https://ieeexplore.ieee.org/document/9396471), 2021, DOI: 10.1109/ElConRus51938.2021.9396471
+- [On Luminance Noise Removal Using Convolutional Neural Network](https://ieeexplore.ieee.org/document/9396128), 2021, DOI: 10.1109/ElConRus51938.2021.9396128 
+- [Comparative Analysis of Approaches to Prediction of Quantitative Parameters During a Pandemic](https://ieeexplore.ieee.org/document/9396350), 2021, DOI: 10.1109/ElConRus51938.2021.9396350
 
 ### :mailbox:	Contacts
 Feel free to contact me via:
