@@ -9,7 +9,7 @@ My main programming language is **C++**, I'm familiar with core C++, STL, Win32 
 
 The second language I often use is **Python**, usually I choose it for some machine learning tasks, TSA and neural networks. Well, writing in Python is more about my hobby for now, because my main tasks on work require writing in C++.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgyFirsov&hide=jupyter%20notebook&theme=tokyonight&card_width=1000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgyFirsov&hide=jupyter%20notebook,HTML,CSS&theme=tokyonight&card_width=1000&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 Set of my main technologies is listed below:
 
