@@ -24,12 +24,18 @@ Set of my main technologies is listed below:
 [![Keras](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white)]()
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)]()
 
+### :mortar_board: Education
+| Degree                     | University                                 |  Status           |
+| -------------------------- | ------------------------------------------ | :---------------: |
+| B. of Software Engineering | National Research Nuclear University MEPhI | Completed in 2021 |
+| M. of Information Security | National Research Nuclear University MEPhI | Studying now      |
+
 ### :information_source: Some additional info
 In my free time I like to study some knowledge about C++ as far as it is my main programming language. For instanse I research compiler internals, develop some tricks. You can find several articles on my [web-page](https://georgyfirsov.github.io/). There are some posts about a process of developing of my repositories, that I consider to be interesting to read.
 
 Moreover my interests spread onto the area of compilers theory, programming languages, automata theory, computer networks, cryptography and information security. I also dig into \*nix systems to know how they work internally. In the area of weak artifical intelligence I'm interested in time series forecasting and deep learning.
 
-### :mortar_board: Publications
+### :books: Publications
 Some of my activities lead to scientific researches. Here are my publications in areas of information security, compilers theory and machine learning:
 - [Syntax Error Search Using Parser Combinators](https://ieeexplore.ieee.org/document/9396311), 2021, DOI: 10.1109/ElConRus51938.2021.9396311
 - [Authentication via RDP Using Electronic Identifiers](https://ieeexplore.ieee.org/document/9396471), 2021, DOI: 10.1109/ElConRus51938.2021.9396471
