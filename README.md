@@ -1,15 +1,14 @@
-***Hi there 👋*** My name is **Georgy Firsov**. Currently I'm located in Moscow, Russian Federation. My main job is middle software engineer at Security Code Ltd. In addition I'm interested in machine learning (in university) and programming languages. See [section below](#information_source-some-additional-info) about my GitHub activity.
+***Hi there 👋*** My name is **Georgy Firsov**. Currently I'm located in Moscow, Russian Federation. My main job is middle software engineer at Security Code Ltd. In addition I'm interested in machine learning, programming languages and cryptography. See [section below](#information_source-some-additional-info) about my GitHub activity.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgyFirsov&show_icons=true&theme=tokyonight&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 ***To view my main repositories scroll down this page. 6 favorite repos are listed below this text.***
 
 ### :zap: Tools and technologies
-My main programming language is **C++**, I'm familiar with core C++, STL, Win32 API, complex template metaptogramming, and parallel programming. Also I use pure Win32 API to write applications for Windows (including GUI applications), but sometimes I use some MFC and ATL classes to write apps more easily and quickly. 
+My main programming language is **C++**, I'm familiar with core C++, STL, Win32 API, complex template metaptogramming, and parallel programming.
+The second language I often use is **Python**, usually I choose it for some machine learning tasks, time series analysis (TSA) and neural networks. 
 
-The second language I often use is **Python**, usually I choose it for some machine learning tasks, TSA and neural networks. Well, writing in Python is more about my hobby for now, because my main tasks on work require writing in C++.
-
-For expansion of my skills I also write in **Rust** and **Haskell**. These languages differ a bit from C++ and Python, they are *functional* languages. It is an area of my additional interests.
+For improving of my skills I also write in **Rust** and **Haskell**. These languages differ a bit from C++ and Python, they are *functional* languages. It is an area of my additional interests.
 
 Set of my main technologies is listed below:
 
@@ -28,12 +27,14 @@ Set of my main technologies is listed below:
 | Degree                     | University                                 |  Status           |
 | -------------------------- | ------------------------------------------ | :---------------: |
 | B. of Software Engineering | National Research Nuclear University MEPhI | Completed in 2021 |
-| M. of Information Security | National Research Nuclear University MEPhI | Studying now      |
+| M. of Information Security | National Research Nuclear University MEPhI | In progress       |
 
 ### :information_source: Some additional info
-In my free time I like to study some knowledge about C++ as far as it is my main programming language. For instanse I research compiler internals, develop some tricks. You can find several articles on my [web-page](https://georgyfirsov.github.io/). There are some posts about a process of developing of my repositories, that I consider to be interesting to read.
+In my free time I like to study some knowledge about cryptography, distributed systems development, compiler internals, cryptocurrencies, smart-contracts, NFTs, etc. You can find several articles on my [web-page](https://georgyfirsov.github.io/). There are some posts about a process of developing of my repositories, that I consider to be interesting to read.
 
-Moreover my interests spread onto the area of compilers theory, programming languages, automata theory, computer networks, cryptography and information security. I also dig into \*nix systems to know how they work internally. In the area of weak artifical intelligence I'm interested in time series forecasting and deep learning.
+Sometimes I participate in various CTFs. You can find several writeups again on my web-page.
+
+Moreover my interests spread onto the area of computer networks, time series analysis, machine learning and deep learning. You can look at some publications below.
 
 ### :books: Publications
 Some of my activities lead to scientific researches. Here are my publications in areas of information security, compilers theory and machine learning:
