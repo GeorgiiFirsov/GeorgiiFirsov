@@ -1,4 +1,4 @@
-***Hi there 👋*** My name is **Georgy Firsov**. Currently I'm located in Moscow, Russian Federation. My main job is middle software engineer at Security Code Ltd. In addition I'm interested in machine learning, programming languages and cryptography. See [section below](#information_source-some-additional-info) about my GitHub activity.
+***Hi there 👋*** My name is **Georgy Firsov**. Currently I'm located in Moscow, Russian Federation. My main job is middle software engineer at Security Code Ltd. In addition I'm interested in cryptography, programming languages and machine learning. See [section below](#information_source-some-additional-info) about my GitHub activity.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgyFirsov&show_icons=true&theme=tokyonight&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
