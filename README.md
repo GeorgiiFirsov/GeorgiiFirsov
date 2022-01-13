@@ -30,7 +30,7 @@ Set of my main technologies is listed below:
 | M. of Information Security | National Research Nuclear University MEPhI | In progress       |
 
 ### :information_source: Some additional info
-In my free time I like to study some knowledge about cryptography, distributed systems development, compiler internals, cryptocurrencies, smart-contracts, NFTs, etc. You can find several articles on my [web-page](https://georgyfirsov.github.io/). There are some posts about a process of developing of my repositories, that I consider to be interesting to read.
+In my free time I like to study some knowledge about cryptography (especially symmetric cryptography and cryptoanalysis), distributed systems development, compiler internals, etc. You can find several articles on my [web-page](https://georgyfirsov.github.io/). There are some posts about a process of developing of my repositories, that I consider to be interesting to read.
 
 Sometimes I participate in various CTFs. You can find several writeups again on my web-page.
 
