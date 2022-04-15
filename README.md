@@ -1,4 +1,4 @@
-***Hi there 👋*** My name is **Georgy Firsov**. Currently I'm located in Moscow, Russian Federation. My main job is middle software engineer at Security Code Ltd. In addition I'm interested in cryptography, programming languages and machine learning. See [section below](#information_source-some-additional-info) about my GitHub activity.
+***Hi there 👋*** My name is **Georgy Firsov**. I'm interested in cryptography, programming languages and machine learning. See [section below](#information_source-some-additional-info) about my GitHub activity.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgyFirsov&show_icons=true&theme=tokyonight&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -48,8 +48,6 @@ Feel free to contact me via:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/georgy-firsov/)](https://www.linkedin.com/in/georgy-firsov/)
 [![Email](https://img.shields.io/badge/-Email-de4343?logo=Gmail&logoColor=white&link=mailto:gfirsov007@gmail.com)](mailto:gfirsov007@gmail.com)
-[![VK](https://img.shields.io/badge/-VK-4680C2?logo=vk&logoColor=white&link=https://vk.com/g__firsov)](https://vk.com/g__firsov)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&link=https://t.me/G_Firsov)](https://t.me/G_Firsov)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?logo=Instagram&logoColor=white&link=https://www.instagram.com/g__firsov/)](https://www.instagram.com/g__firsov/)
 [![Scopus](https://img.shields.io/badge/-Scopus-E9711C?logo=Scopus&logoColor=white&link=https://www.scopus.com/authid/detail.uri?authorId=57223089781)](https://www.scopus.com/authid/detail.uri?authorId=57223089781)
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?logo=ORCID&logoColor=white&link=https://orcid.org/0000-0001-5464-4045)](https://orcid.org/0000-0001-5464-4045)
