@@ -48,6 +48,6 @@ Feel free to contact me via:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/georgy-firsov/)](https://www.linkedin.com/in/georgy-firsov/)
 [![Email](https://img.shields.io/badge/-Email-de4343?logo=Gmail&logoColor=white&link=mailto:gfirsov007@gmail.com)](mailto:gfirsov007@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&link=https://t.me/G_Firsov)](https://t.me/G_Firsov)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&link=https://t.me/GeorgyFirsov)](https://t.me/GeorgyFirsov)
 [![Scopus](https://img.shields.io/badge/-Scopus-E9711C?logo=Scopus&logoColor=white&link=https://www.scopus.com/authid/detail.uri?authorId=57223089781)](https://www.scopus.com/authid/detail.uri?authorId=57223089781)
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?logo=ORCID&logoColor=white&link=https://orcid.org/0000-0001-5464-4045)](https://orcid.org/0000-0001-5464-4045)
