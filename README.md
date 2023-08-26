@@ -24,10 +24,11 @@ Set of my main technologies is listed below:
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)]()
 
 ### :mortar_board: Education
-| Degree                     | University                                 |  Status           |
-| -------------------------- | ------------------------------------------ | :---------------: |
-| B. of Software Engineering | National Research Nuclear University MEPhI | Completed in 2021 |
-| M. of Information Security | National Research Nuclear University MEPhI | In progress       |
+| Degree                      | University                                 |  Status           |
+| --------------------------- | ------------------------------------------ | :---------------: |
+| B. of Software Engineering  | National Research Nuclear University MEPhI | Completed in 2021 |
+| M. of Information Security  | National Research Nuclear University MEPhI | Completed in 2023 |
+| PhD in Information Security | National Research Nuclear University MEPhI | In progress...    |
 
 ### :information_source: Some additional info
 In my free time I like to study some knowledge about cryptography (especially symmetric cryptography and cryptoanalysis), distributed systems development, compiler internals, etc. You can find several articles on my [web-page](https://georgyfirsov.github.io/). There are some posts about a process of developing of my repositories, that I consider to be interesting to read.
