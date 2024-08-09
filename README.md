@@ -1,6 +1,6 @@
 ***Hi there 👋*** My name is **Georgii Firsov**. I'm interested in cryptography, programming languages and machine learning. See [section below](#information_source-some-additional-info) about my GitHub activity.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgyFirsov&show_icons=true&theme=tokyonight&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgiiFirsov&show_icons=true&theme=tokyonight&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 ***To view my main repositories scroll down this page. 6 favorite repos are listed below this text.***
 
