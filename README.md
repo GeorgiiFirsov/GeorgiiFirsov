@@ -1,10 +1,6 @@
 ***Hi there 👋*** My name is **Georgii Firsov**. I'm development team lead and PhD student. My research area is cryptography, 
 and I'm also interested in programming languages and AI.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgiiFirsov&show_icons=true&theme=tokyonight&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
-***To view my main repositories scroll down this page. 6 favorite repos are listed below this text.***
-
 ### :zap: Tools and technologies
 
 My main programming language is **C++**, I'm familiar with core C++, STL, Boost, Win32 API, complex template metaptogramming, and parallel programming.
